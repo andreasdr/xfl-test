@@ -41,12 +41,12 @@ class Main extends Sprite {
         XFLTween.to(gui, 1.0, {alpha: 1.0});
     } 
 
-	private function stageResizeHandler(event: Event): Void {
+    private function stageResizeHandler(event: Event): Void {
         cast(getChildAt(0), Shape).graphics.clear();
         cast(getChildAt(0), Shape).graphics.beginFill(0x000000);
         cast(getChildAt(0), Shape).graphics.drawRect(0.0, 0.0, openfl.Lib.current.stage.stageWidth, openfl.Lib.current.stage.stageHeight);
         getChildAt(1).x = (openfl.Lib.current.stage.stageWidth - getChildAt(1).width) / 2.0;
         getChildAt(1).y = (openfl.Lib.current.stage.stageHeight - getChildAt(1).height) / 2.0;
-	}
+    }
 
 }
