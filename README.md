@@ -3,10 +3,11 @@ This is just a small XFL demonstration application. This is not complete yet, bu
 See https://github.com/andreasdr/xfl
 
 It uses default skinning from Adobe Animate CC and currently involves
-- XFL asset loading including shape generation
+- XFL movie clip asset loading and creation
 - CheckBox
 - ProgressBar
 - RadioButton
+- ScrollBar
 - Slider
 - TextArea
 - TextField

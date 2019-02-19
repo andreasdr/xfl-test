@@ -13,9 +13,9 @@ class Main extends Sprite {
         super();
 
         XFLAssets.getInstance().setup(
-			[
-				"assets/assets",
-			]
+            [
+                "assets/assets",
+            ]
         );
 
         addChild(new Shape());
@@ -45,7 +45,7 @@ class Main extends Sprite {
         cast(getChildAt(0), Shape).graphics.clear();
         cast(getChildAt(0), Shape).graphics.beginFill(0x000000);
         cast(getChildAt(0), Shape).graphics.drawRect(0.0, 0.0, openfl.Lib.current.stage.stageWidth, openfl.Lib.current.stage.stageHeight);
-		getChildAt(1).x = (openfl.Lib.current.stage.stageWidth - getChildAt(1).width) / 2.0;
+        getChildAt(1).x = (openfl.Lib.current.stage.stageWidth - getChildAt(1).width) / 2.0;
         getChildAt(1).y = (openfl.Lib.current.stage.stageHeight - getChildAt(1).height) / 2.0;
 	}
 
