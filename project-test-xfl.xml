@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<window fps="30" />
+	<meta title="xfl-test" package="" version="1.0.0" company="Pixel Racoons GmbH" />
+	<app main="Main" path="Export" file="xfl-test" />
+	<source path="Source" />
+	<haxelib name="openfl" />
+	<config:android target-sdk-version="19" />
+	<assets path="Assets/assets" rename="assets/assets" embed="true" exclude="/bin" />
+</project>

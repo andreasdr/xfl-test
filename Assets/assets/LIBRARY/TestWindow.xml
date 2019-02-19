@@ -1,0 +1,290 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1550552332" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="TestWindow" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|10000 0!10000 0|10000 6000!10000 6000|0 6000!0 6000|0 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="_gfx/logo.png">
+                  <matrix>
+                    <Matrix tx="25" ty="25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText fontRenderingMode="device" width="196" height="86" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="277" ty="16.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hi, this is a XFL test for your pleasure</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="27.05" size="24" bitmapSize="480" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMComponentInstance libraryItemName="Component Assets/CheckBox" name="checkBox1" uniqueID="1">
+                  <matrix>
+                    <Matrix a="0.75" tx="50" ty="125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.05" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/CheckBox" name="checkBox2" uniqueID="2">
+                  <matrix>
+                    <Matrix a="0.75" tx="50.05" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/RadioButton" name="radioButton1" uniqueID="3">
+                  <matrix>
+                    <Matrix a="0.75" tx="140" ty="125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="groupName">
+      <Inspectable name="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/RadioButton" name="radioButton2" uniqueID="5">
+                  <matrix>
+                    <Matrix a="0.75" tx="140" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="groupName">
+      <Inspectable name="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/Slider" name="slider1" uniqueID="4">
+                  <matrix>
+                    <Matrix tx="250" ty="145"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="1.5"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="liveDragging">
+      <Inspectable name="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="maximum">
+      <Inspectable name="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="minimum">
+      <Inspectable name="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="snapInterval">
+      <Inspectable name="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="tickInterval">
+      <Inspectable name="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/Slider" name="slider2" uniqueID="6">
+                  <matrix>
+                    <Matrix tx="350" ty="145"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="1.5"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="liveDragging">
+      <Inspectable name="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="maximum">
+      <Inspectable name="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="minimum">
+      <Inspectable name="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="snapInterval">
+      <Inspectable name="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="tickInterval">
+      <Inspectable name="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/TextArea" name="textArea" uniqueID="7">
+                  <matrix>
+                    <Matrix a="4" d="1.36363220214844" tx="50" ty="194.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="22"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="condenseWhite">
+      <Inspectable name="condenseWhite" variable="condenseWhite" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" variable="editable" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
+   </property>
+   <property id="htmlText">
+      <Inspectable name="htmlText" variable="htmlText" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="maxChars">
+      <Inspectable name="maxChars" variable="maxChars" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="restrict">
+      <Inspectable name="restrict" variable="restrict" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="text">
+      <Inspectable name="text" variable="text" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="wordWrap">
+      <Inspectable name="wordWrap" variable="wordWrap" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/ProgressBar" name="progressBar" uniqueID="8">
+                  <matrix>
+                    <Matrix a="1.33331298828125" tx="149.95" ty="275"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.05" y="2"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="right,left" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="mode">
+      <Inspectable name="mode" variable="mode" category="" verbose="0" defaultValue="event" enumeration="event,polled,manual" type="List"/>
+   </property>
+   <property id="sourceName">
+      <Inspectable name="source" variable="sourceName" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
