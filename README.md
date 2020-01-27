@@ -2,6 +2,9 @@
 This is just a small XFL demonstration application. This is not complete yet, but a start.
 See https://github.com/andreasdr/xfl
 
+It sometimes may not be 100% working due to OpenFL or XFL changes. 
+If you want to see it in action still just drop me a line.
+
 It uses default skinning from Adobe Animate CC and currently involves
 - XFL movie clip asset loading and creation
 - CheckBox
