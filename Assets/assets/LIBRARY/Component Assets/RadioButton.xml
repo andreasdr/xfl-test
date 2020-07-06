@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/RadioButton" itemID="44b1a57a-00000122" linkageExportForAS="true" linkageClassName="fl.controls.RadioButton" lastModified="1358192122" lastUniqueIdentifier="26" tooltip="RadioButton" customIconID="3" actionscriptClass="fl.controls.RadioButton" livePreviewScmHRef="haezgx0luk.swf" livePreviewScmSourceFilename="RadioButton.swf" persistLivePreview11="true" livePreview11ScmHRef="haezgx0luk15.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0EFC9C5097F033..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/RadioButton" itemID="44b1a57a-00000122" linkageExportForAS="true" linkageClassName="fl.controls.RadioButton" lastModified="1358192122" lastUniqueIdentifier="26" tooltip="RadioButton" customIconID="3" actionscriptClass="fl.controls.RadioButton" livePreviewScmSourceFilename="RadioButton.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0EFC9C5097F033..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="RadioButton" currentFrame="1">
       <layers>
@@ -169,25 +169,25 @@
     </DOMTimeline>
   </timeline>
   <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="groupName">
-      <Inspectable name="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+      <Inspectable name="groupName" unlocalizedName="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>

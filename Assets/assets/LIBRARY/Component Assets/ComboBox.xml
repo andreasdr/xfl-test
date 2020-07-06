@@ -1,124 +1,239 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/CheckBox" itemID="44b19f0d-00000018" linkageExportForAS="true" linkageClassName="fl.controls.CheckBox" lastModified="1550548598" lastUniqueIdentifier="35" tooltip="CheckBox" customIconID="2" actionscriptClass="fl.controls.CheckBox" livePreviewScmSourceFilename="CheckBox.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0C4C125097EF83..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/ComboBox" itemID="44f70a5f-0000008e" linkageExportForAS="true" linkageClassName="fl.controls.ComboBox" lastModified="1358192121" lastUniqueIdentifier="35" tooltip="ComboBox" customIconID="9" actionscriptClass="fl.controls.ComboBox" livePreviewScmSourceFilename="ComboBox.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0D3FF25097EFC1..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
   <timeline>
-    <DOMTimeline name="CheckBox" currentFrame="1">
+    <DOMTimeline name="ComboBox" currentFrame="1">
       <layers>
-        <DOMLayer name="assets" color="#808080" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="assets" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_upIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="45.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_overIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="112"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_downIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="241.2"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_disabledIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="174.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_selectedUpIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="12.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_selectedOverIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="78.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_selectedDownIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="208.15"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Component Assets/CheckBoxSkins/CheckBox_selectedDisabledIcon">
-                  <matrix>
-                    <Matrix tx="75.35" ty="145.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="7" y="7"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Component Assets/Shared/focusRectSkin">
                   <matrix>
-                    <Matrix tx="7.3" ty="267.7"/>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="78.3" ty="190.45"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="41.05" y="11"/>
+                    <Point x="41" y="11"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Component Assets/ComboBoxSkins/ComboBox_upSkin">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="12.35" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.95" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Component Assets/ComboBoxSkins/ComboBox_disabledSkin">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="13.25" ty="146.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.95" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Component Assets/ComboBoxSkins/ComboBox_overSkin">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="12.35" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.95" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Component Assets/ComboBoxSkins/ComboBox_downSkin">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="12.35" ty="101.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.95" y="10.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/TextInput" uniqueID="34">
+                  <matrix>
+                    <Matrix tx="61.35" ty="230.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="displayAsPassword">
+      <Inspectable name="displayAsPassword" unlocalizedName="displayAsPassword" variable="displayAsPassword" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="maxChars">
+      <Inspectable name="maxChars" unlocalizedName="maxChars" variable="maxChars" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="restrict">
+      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="text">
+      <Inspectable name="text" unlocalizedName="text" variable="text" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/List" uniqueID="35">
+                  <matrix>
+                    <Matrix tx="61.25" ty="276.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.1" y="50"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="allowMultipleSelection">
+      <Inspectable name="allowMultipleSelection" unlocalizedName="allowMultipleSelection" variable="allowMultipleSelection" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="dataProvider">
+      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" unlocalizedName="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" unlocalizedName="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" unlocalizedName="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" unlocalizedName="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" unlocalizedName="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" unlocalizedName="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="asset names" color="#FFFF4F" locked="true" autoNamed="false" layerType="guide">
+        <DOMLayer name="asset names" color="#4F80FF" autoNamed="false" layerType="guide">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="225" objectHeight="335" x="121.05" y="-125.2" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                <DOMRectangleObject objectWidth="158.25" objectHeight="83.65" x="45.45" y="13.8" lockFlag="true" topLeftRadius="6" topRightRadius="6" bottomLeftRadius="6" bottomRightRadius="6">
                   <matrix>
-                    <Matrix d="0.889556884765625" tx="-121.05" ty="111.35"/>
+                    <Matrix a="2.14726257324219" d="5.57821655273438" tx="-97.6" ty="-77"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="233.55" y="42.3"/>
+                    <Point x="124.65" y="55.6"/>
                   </transformationPoint>
                   <fill>
                     <SolidColor color="#EEEEEE"/>
                   </fill>
                   <stroke>
-                    <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                    <SolidStroke scaleMode="normal">
                       <fill>
                         <SolidColor color="#CCCCCC"/>
                       </fill>
                     </SolidStroke>
                   </stroke>
                 </DOMRectangleObject>
-                <DOMStaticText width="112.8" height="277.7" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="62.1" height="14.5" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="98.95" ty="10"/>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="177.45" ty="103.3"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>selected_up&#xD;up&#xD;selected_over&#xD;over&#xD;selected_disabled&#xD;disabled&#xD;selected_down&#xD;down&#xD;focusRectSkin</characters>
+                      <characters>Down Skin</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineSpacing="14.8" lineHeight="17.7" size="16" face="TimesNewRomanPSMT" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="144" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="178.05" ty="149.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Disable Skin</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="45.55" height="14.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="177.45" ty="26.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Up Skin</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="57.1" height="14.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="178.55" ty="64"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Over Skin</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="144" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="178.05" ty="192.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Focus Rect Skin</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="90.9" height="14.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="178.55" ty="279.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>List Component</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="144" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999893188476562" d="0.999801635742188" tx="178.05" ty="229.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TextInput</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" face="ArialMT" fillColor="#333333"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -127,7 +242,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="avatar" color="#9933CC" locked="true" autoNamed="false">
+        <DOMLayer name="avatar" color="#4FFF4F" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -146,18 +261,18 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="ComponentShim" color="#4FFFFF" locked="true" autoNamed="false">
+        <DOMLayer name="ComponentShim" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMCompiledClipInstance libraryItemName="Component Assets/_private/ComponentShim" uniqueID="16">
+                <DOMCompiledClipInstance libraryItemName="Component Assets/_private/ComponentShim" uniqueID="31">
                   <matrix>
                     <Matrix d="1.00311279296875" tx="10" ty="10"/>
                   </matrix>
-                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='304.16'>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='327.31'>
 </component>
 ]]></dataBindingXML>
                 </DOMCompiledClipInstance>
@@ -168,17 +283,23 @@
       </layers>
     </DOMTimeline>
   </timeline>
-  <parametersAsXML><![CDATA[   <property id="enabled">
+  <parametersAsXML><![CDATA[   <property id="dataProvider">
+      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
       <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
-   <property id="label">
-      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   <property id="prompt">
+      <Inspectable name="prompt" unlocalizedName="prompt" variable="prompt" category="" verbose="0" defaultValue="" type="String"/>
    </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   <property id="restrict">
+      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="1" defaultValue="" type="String"/>
    </property>
-   <property id="selected">
-      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   <property id="rowCount">
+      <Inspectable name="rowCount" unlocalizedName="rowCount" variable="rowCount" category="" verbose="0" defaultValue="5" type="Number"/>
    </property>
    <property id="visible">
       <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
@@ -272,20 +393,16 @@
 	<classDef id="flash.media.SoundTransform"/>
 	<classDef id="flash.display.Graphics"/>
 	<classDef id="flash.display.Graphics"/>
-	<classDef id="flash.utils.Dictionary"/>
-	<classDef id="flash.utils.Dictionary"/>
 	<classDef id="flash.events.FocusEvent"/>
 	<classDef id="flash.events.FocusEvent"/>
-	<classDef id="flash.events.KeyboardEvent"/>
-	<classDef id="flash.events.KeyboardEvent"/>
+	<classDef id="flash.utils.Dictionary"/>
+	<classDef id="flash.utils.Dictionary"/>
 	<classDef id="flash.text.TextField"/>
 	<classDef id="flash.text.TextField"/>
-	<classDef id="flash.utils.Timer"/>
-	<classDef id="flash.utils.Timer"/>
+	<classDef id="flash.events.KeyboardEvent"/>
+	<classDef id="flash.events.KeyboardEvent"/>
 	<classDef id="flash.events.MouseEvent"/>
 	<classDef id="flash.events.MouseEvent"/>
-	<classDef id="flash.events.TimerEvent"/>
-	<classDef id="flash.events.TimerEvent"/>
 	<classDef id="Error"/>
 	<classDef id="DefinitionError"/>
 	<classDef id="EvalError"/>
@@ -320,8 +437,6 @@
 	<classDef id="flash.errors.EOFError"/>
 	<classDef id="flash.text.TextFormat"/>
 	<classDef id="flash.text.TextFormat"/>
-	<classDef id="flash.display.Shape"/>
-	<classDef id="flash.display.Shape"/>
 	<classDef id="flash.net.URLRequestHeader"/>
 	<classDef id="flash.net.URLRequestHeader"/>
 	<classDef id="flash.events.SoftKeyboardEvent"/>
@@ -338,22 +453,20 @@
 	<classDef id="flash.events.IMEEvent"/>
 	<classDef id="flash.events.TextEvent"/>
 	<classDef id="flash.events.TextEvent"/>
-	<classDef id="flash.system.IME"/>
-	<classDef id="flash.system.IME"/>
-	<classDef id="flash.system.IMEConversionMode"/>
-	<classDef id="flash.system.IMEConversionMode"/>
 	<classDef id="flash.display.BitmapData"/>
 	<classDef id="flash.display.BitmapData"/>
-	<classDef id="flash.text.TextFormatAlign"/>
-	<classDef id="flash.text.TextFormatAlign"/>
 	<classDef id="Math"/>
 	<classDef id="Math"/>
+	<classDef id="flash.system.IMEConversionMode"/>
+	<classDef id="flash.system.IMEConversionMode"/>
+	<classDef id="flash.system.IME"/>
+	<classDef id="flash.system.IME"/>
 	<classDef id="flash.display.Bitmap"/>
 	<classDef id="flash.display.Bitmap"/>
+	<classDef id="flash.text.TextFormatAlign"/>
+	<classDef id="flash.text.TextFormatAlign"/>
 	<classDef id="flash.ui.Keyboard"/>
 	<classDef id="flash.ui.Keyboard"/>
-	<classDef id="flash.text.TextFieldType"/>
-	<classDef id="flash.text.TextFieldType"/>
 	<classDef id="flash.display.NativeMenu"/>
 	<classDef id="flash.display.NativeMenu"/>
 	<classDef id="flash.display.ShaderData"/>
@@ -422,10 +535,18 @@
 	<classDef id="flash.display.Stage3D"/>
 	<classDef id="flash.media.StageVideo"/>
 	<classDef id="flash.media.StageVideo"/>
+	<classDef id="flash.events.TimerEvent"/>
+	<classDef id="flash.events.TimerEvent"/>
+	<classDef id="flash.utils.Timer"/>
+	<classDef id="flash.utils.Timer"/>
+	<classDef id="flash.display.Shape"/>
+	<classDef id="flash.display.Shape"/>
 	<classDef id="flash.display.SimpleButton"/>
 	<classDef id="flash.display.SimpleButton"/>
 	<classDef id="flash.display.GraphicsEndFill"/>
 	<classDef id="flash.display.GraphicsEndFill"/>
+	<classDef id="flash.text.TextFieldType"/>
+	<classDef id="flash.text.TextFieldType"/>
 	<classDef id="flash.events.ProgressEvent"/>
 	<classDef id="flash.events.ProgressEvent"/>
 	<classDef id="flash.events.IOErrorEvent"/>
@@ -577,48 +698,73 @@
 	<classDef id="flash.net.URLVariables"/>
 	<classDef id="flash.net.URLVariables"/>
 	<classDef id="fl.managers.IFocusManagerComponent"/>
-	<classDef id="fl.core.InvalidationType"/>
 	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
 	<classDef id="fl.managers.StyleManager"/>
-	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
 	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
 	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.events.ScrollEvent"/>
 	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.data.DataProvider"/>
 	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.ComboBox"/>
 	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.controls.ScrollBar"/>
 	<classDef id="fl.controls.LabelButton"/>
-	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.SelectableList"/>
 	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.controls.List"/>
 </classDefs>
-<class id="fl.controls.CheckBox" >
-	<Style name="textPadding" type="Number" format="Length" />
-	<Style name="selectedOverIcon" type="Class" />
-	<Style name="selectedDownIcon" type="Class" />
-	<Style name="selectedUpIcon" type="Class" />
-	<Style name="selectedDisabledIcon" type="Class" />
-	<Style name="disabledIcon" type="Class" />
-	<Style name="overIcon" type="Class" />
-	<Style name="downIcon" type="Class" />
-	<Style name="upIcon" type="Class" />
-	<Style name="icon" type="Class" />
-	<__go_to_ctor_definition_help file="C:\devsrc\flashfarm\flashpro\src\flashpro\lib\win\debug\64\Common\Configuration\Component Source\ActionScript 3.0\User Interface\fl\controls\CheckBox.as" pos="6480" />
+<class id="fl.controls.ComboBox" >
 	<Style name="embedFonts" type="Boolean" />
 	<Style name="repeatInterval" type="Number" format="Time" />
 	<Style name="repeatDelay" type="Number" format="Time" />
-	<Style name="selectedOverSkin" type="Class" />
-	<Style name="selectedDownSkin" type="Class" />
-	<Style name="selectedUpSkin" type="Class" />
-	<Style name="selectedDisabledSkin" type="Class" />
-	<Style name="overSkin" type="Class" />
-	<Style name="downSkin" type="Class" />
-	<Style name="upSkin" type="Class" />
+	<Style name="thumbIcon" type="Class" />
+	<Style name="upArrowUpSkin" type="Class" />
+	<Style name="upArrowOverSkin" type="Class" />
+	<Style name="upArrowDownSkin" type="Class" />
+	<Style name="upArrowDisabledSkin" type="Class" />
+	<Style name="trackUpSkin" type="Class" />
+	<Style name="trackOverSkin" type="Class" />
+	<Style name="trackDownSkin" type="Class" />
+	<Style name="trackDisabledSkin" type="Class" />
+	<Style name="thumbArrowUpSkin" type="Class" />
+	<Style name="thumbOverSkin" type="Class" />
+	<Style name="thumbDownSkin" type="Class" />
+	<Style name="thumbDisabledSkin" type="Class" />
+	<Style name="downArrowUpSkin" type="Class" />
+	<Style name="downArrowOverSkin" type="Class" />
+	<Style name="downArrowDownSkin" type="Class" />
+	<Style name="downArrowDisabledSkin" type="Class" />
+	<Style name="disabledAlpha" type="Class" />
+	<Style name="contentPadding" type="Number" format="Length" />
+	<Style name="cellRenderer" type="Class" />
 	<Style name="disabledSkin" type="Class" />
-	<Event name="labelChange" type="fl.events.ComponentEvent" />
-	<Event name="click" type="flash.events.MouseEvent" />
-	<__go_to_ctor_definition_help file="C:\devsrc\flashfarm\flashpro\src\flashpro\lib\win\debug\64\Common\Configuration\Component Source\ActionScript 3.0\User Interface\fl\controls\LabelButton.as" pos="14010" />
+	<Style name="downSkin" type="Class" />
+	<Style name="overSkin" type="Class" />
+	<Style name="upSkin" type="Class" />
+	<Style name="textPadding" type="Number" format="Length" />
+	<Style name="buttonWidth" type="Number" format="Length" />
+	<Event name="scroll" type="fl.events.ScrollEvent" />
+	<Event name="open" type="flash.events.Event" />
+	<Event name="enter" type="fl.events.ComponentEvent" />
+	<Event name="close" type="flash.events.Event" />
+	<Event name="itemRollOut" type="fl.events.ListEvent" />
+	<Event name="itemRollOver" type="fl.events.ListEvent" />
 	<Event name="change" type="flash.events.Event" />
-	<Event name="buttonDown" type="fl.events.ComponentEvent" />
-	<__go_to_ctor_definition_help file="C:\devsrc\flashfarm\flashpro\src\flashpro\lib\win\debug\64\Common\Configuration\Component Source\ActionScript 3.0\User Interface\fl\controls\BaseButton.as" pos="9421" />
+	<__go_to_ctor_definition_help file="C:\devsrc\flashfarm\flashpro\src\flashpro\lib\win\debug\64\Common\Configuration\Component Source\ActionScript 3.0\User Interface\fl\controls\ComboBox.as" pos="20833" />
 	<Style name="disabledTextFormat" type="flash.text.TextFormat" />
 	<Style name="textFormat" type="flash.text.TextFormat" />
 	<Style name="focusRectPadding" type="Number" format="Length" />
@@ -688,6 +834,7 @@
 	<Event name="mouseMove" type="flash.events.MouseEvent" />
 	<Event name="mouseDown" type="flash.events.MouseEvent" />
 	<Event name="doubleClick" type="flash.events.MouseEvent" />
+	<Event name="click" type="flash.events.MouseEvent" />
 	<Event name="mouseFocusChange" type="flash.events.FocusEvent" />
 	<Event name="keyFocusChange" type="flash.events.FocusEvent" />
 	<Event name="focusOut" type="flash.events.FocusEvent" />
@@ -712,27 +859,49 @@
 	<Event name="activate" type="flash.events.Event" />
 	<__go_to_ctor_definition_help file="D:\FP_Win_NF\FP_Dolores_265\code\flash\avmglue\classes\EventDispatcher.as" pos="5321" />
 	<native cls="ObjectClass" classgc="exact" methods="auto" construct="override" />
-	<method id="toggle" returnType="Boolean" isProperty="true" permissions="readwrite">
-	</method>
-	<method id="autoRepeat" returnType="Boolean" isProperty="true" permissions="readwrite">
-	</method>
-	<method id="label" returnType="String" isProperty="true" permissions="readwrite">
-		<Inspectable defaultValue="Label" />
-	</method>
-	<method id="labelPlacement" returnType="String" isProperty="true" permissions="readwrite">
-		<Inspectable enumeration="left,right,top,bottom" defaultValue="right" name="labelPlacement" />
-	</method>
-	<method id="selected" returnType="Boolean" isProperty="true" permissions="readwrite">
+	<method id="editable" returnType="Boolean" isProperty="true" permissions="readwrite">
 		<Inspectable defaultValue="false" />
 	</method>
-	<method id="textField" returnType="TextField" isProperty="true" permissions="readwrite">
+	<method id="rowCount" returnType="uint" isProperty="true" permissions="readwrite">
+		<Inspectable defaultValue="5" />
+	</method>
+	<method id="restrict" returnType="String" isProperty="true" permissions="readwrite">
+		<Inspectable verbose="1" />
+	</method>
+	<method id="selectedIndex" returnType="int" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="text" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="labelField" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="labelFunction" returnType="Function" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="selectedItem" returnType="Object" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="dropdown" returnType="List" isProperty="true" permissions="readonly">
+	</method>
+	<method id="length" returnType="int" isProperty="true" permissions="readonly">
+	</method>
+	<method id="textField" returnType="TextInput" isProperty="true" permissions="readonly">
+	</method>
+	<method id="value" returnType="String" isProperty="true" permissions="readonly">
+	</method>
+	<method id="dataProvider" returnType="DataProvider" isProperty="true" permissions="readwrite">
+		<Collection collectionClass="fl.data.DataProvider" identifier="item" collectionItem="fl.data.SimpleCollectionItem" />
+	</method>
+	<method id="dropdownWidth" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="prompt" returnType="String" isProperty="true" permissions="readwrite">
+		<Inspectable defaultValue="" />
+	</method>
+	<method id="imeMode" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="selectedLabel" returnType="String" isProperty="true" permissions="readonly">
+	</method>
+	<method id="componentInspectorSetting" returnType="Boolean" isProperty="true" permissions="readwrite">
 	</method>
 	<method id="enabled" returnType="Boolean" isProperty="true" permissions="readwrite">
 		<Inspectable defaultValue="true" verbose="1" />
-	</method>
-	<method id="mouseStateLocked" returnType="Boolean" isProperty="true" permissions="writeonly">
-	</method>
-	<method id="componentInspectorSetting" returnType="Boolean" isProperty="true" permissions="readwrite">
 	</method>
 	<method id="width" returnType="Number" isProperty="true" permissions="readwrite">
 	</method>
@@ -861,15 +1030,31 @@
 	<method id="blendShader" returnType="Shader" isProperty="true" permissions="writeonly">
 		<Version param1="10" />
 	</method>
-	<method id="drawFocus" returnType="void" isProperty="false">
+	<method id="itemToLabel" returnType="String" isProperty="false">
 	</method>
-	<method id="CheckBox" isConstructor="true" isProperty="false">
+	<method id="addItem" returnType="void" isProperty="false">
 	</method>
-	<method id="LabelButton" isConstructor="true" isProperty="false">
+	<method id="addItemAt" returnType="void" isProperty="false">
 	</method>
-	<method id="setMouseState" returnType="void" isProperty="false">
+	<method id="removeAll" returnType="void" isProperty="false">
 	</method>
-	<method id="BaseButton" isConstructor="true" isProperty="false">
+	<method id="removeItem" returnType="Object" isProperty="false">
+	</method>
+	<method id="removeItemAt" returnType="void" isProperty="false">
+	</method>
+	<method id="getItemAt" returnType="Object" isProperty="false">
+	</method>
+	<method id="replaceItemAt" returnType="Object" isProperty="false">
+	</method>
+	<method id="sortItems" returnType="null" isProperty="false">
+	</method>
+	<method id="sortItemsOn" returnType="null" isProperty="false">
+	</method>
+	<method id="open" returnType="void" isProperty="false">
+	</method>
+	<method id="close" returnType="void" isProperty="false">
+	</method>
+	<method id="ComboBox" isConstructor="true" isProperty="false">
 	</method>
 	<method id="setSize" returnType="void" isProperty="false">
 	</method>
@@ -886,6 +1071,8 @@
 	<method id="invalidate" returnType="void" isProperty="false">
 	</method>
 	<method id="setSharedStyle" returnType="void" isProperty="false">
+	</method>
+	<method id="drawFocus" returnType="void" isProperty="false">
 	</method>
 	<method id="setFocus" returnType="void" isProperty="false">
 	</method>

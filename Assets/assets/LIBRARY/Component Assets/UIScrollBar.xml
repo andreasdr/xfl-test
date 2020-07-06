@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/UIScrollBar" itemID="44aaa686-00000064" linkageExportForAS="true" linkageClassName="fl.controls.UIScrollBar" lastModified="1358192122" lastUniqueIdentifier="101" tooltip="UIScrollBar" customIconID="5" actionscriptClass="fl.controls.UIScrollBar" livePreviewScmHRef="haf79x0luk.swf" livePreviewScmSourceFilename="UIScrollBar.swf" persistLivePreview11="true" livePreview11ScmHRef="q89qopjpc.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E10ED125097F0B2..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/UIScrollBar" itemID="44aaa686-00000064" linkageExportForAS="true" linkageClassName="fl.controls.UIScrollBar" lastModified="1358192122" lastUniqueIdentifier="101" tooltip="UIScrollBar" customIconID="5" actionscriptClass="fl.controls.UIScrollBar" livePreviewScmSourceFilename="UIScrollBar.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E10ED125097F0B2..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="UIScrollBar" currentFrame="1">
       <layers>
@@ -174,7 +174,7 @@
               <elements>
                 <DOMRectangleObject objectWidth="388.95" objectHeight="183" x="-1.55" y="30.3" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
                   <matrix>
-                    <Matrix a="0.9998779296875" d="1.493896484375" tx="1.55" ty="-45.25"/>
+                    <Matrix a="0.999893188476562" d="1.493896484375" tx="1.55" ty="-45.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="192.9" y="121.85"/>
@@ -192,7 +192,7 @@
                 </DOMRectangleObject>
                 <DOMStaticText width="33.3" height="14.5" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix a="0.9998779296875" d="0.99981689453125" tx="192.45" ty="183.5"/>
+                    <Matrix a="0.999893188476562" d="0.99981689453125" tx="192.45" ty="183.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -205,7 +205,7 @@
                 </DOMStaticText>
                 <DOMStaticText width="16.75" height="14.5" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix a="0.9998779296875" d="0.99981689453125" tx="36" ty="185.45"/>
+                    <Matrix a="0.999893188476562" d="0.99981689453125" tx="36" ty="185.45"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -218,7 +218,7 @@
                 </DOMStaticText>
                 <DOMStaticText width="28.3" height="14.5" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix a="0.9998779296875" d="0.99981689453125" tx="118.45" ty="183.5"/>
+                    <Matrix a="0.999893188476562" d="0.99981689453125" tx="118.45" ty="183.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -231,7 +231,7 @@
                 </DOMStaticText>
                 <DOMStaticText width="50.55" height="14.5" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix a="0.9998779296875" d="0.99981689453125" tx="280.45" ty="183.5"/>
+                    <Matrix a="0.999893188476562" d="0.99981689453125" tx="280.45" ty="183.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -301,13 +301,13 @@
     </DOMTimeline>
   </timeline>
   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
    </property>
    <property id="scrollTargetName">
-      <Inspectable name="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>

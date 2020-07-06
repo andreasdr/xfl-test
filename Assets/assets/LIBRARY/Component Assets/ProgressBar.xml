@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/ProgressBar" itemID="44b2ac3f-000001bc" linkageExportForAS="true" linkageClassName="fl.controls.ProgressBar" lastModified="1358192122" lastUniqueIdentifier="14" tooltip="ProgressBar" customIconID="23" actionscriptClass="fl.controls.ProgressBar" livePreviewScmHRef="haewux0luj14.swf" livePreviewScmSourceFilename="ProgressBar.swf" persistLivePreview11="true" livePreview11ScmHRef="haexax0luj.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0EC8245097F026..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/ProgressBar" itemID="44b2ac3f-000001bc" linkageExportForAS="true" linkageClassName="fl.controls.ProgressBar" lastModified="1358192122" lastUniqueIdentifier="14" tooltip="ProgressBar" customIconID="23" actionscriptClass="fl.controls.ProgressBar" livePreviewScmSourceFilename="ProgressBar.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0EC8245097F026..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="ProgressBar" currentFrame="1">
       <layers>
@@ -144,19 +144,19 @@
     </DOMTimeline>
   </timeline>
   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="right,left" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="right,left" type="List"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="mode">
-      <Inspectable name="mode" variable="mode" category="" verbose="0" defaultValue="event" enumeration="event,polled,manual" type="List"/>
+      <Inspectable name="mode" unlocalizedName="mode" variable="mode" category="" verbose="0" defaultValue="event" enumeration="event,polled,manual" type="List"/>
    </property>
    <property id="sourceName">
-      <Inspectable name="source" variable="sourceName" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="source" unlocalizedName="source" variable="sourceName" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>

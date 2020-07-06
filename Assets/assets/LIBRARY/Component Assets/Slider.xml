@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/Slider" itemID="44b670ee-000000f8" linkageExportForAS="true" linkageClassName="fl.controls.Slider" lastModified="1358192122" lastUniqueIdentifier="19" tooltip="Slider" customIconID="28" actionscriptClass="fl.controls.Slider" livePreviewScmHRef="haf16x0luk.swf" livePreviewScmSourceFilename="Slider.swf" persistLivePreview11="true" livePreview11ScmHRef="haf16x0luk18.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0FA3F25097F05E..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Component Assets/Slider" itemID="44b670ee-000000f8" linkageExportForAS="true" linkageClassName="fl.controls.Slider" lastModified="1358192122" lastUniqueIdentifier="19" tooltip="Slider" customIconID="28" actionscriptClass="fl.controls.Slider" livePreviewScmSourceFilename="Slider.swf" persistLivePreview11="true" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP3E0FA3F25097F05E..swf" editFrameIndex="2" requiredMinimumPlayerVersion="9" requiredMinimumASVersion="3" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="Slider" currentFrame="1">
       <layers>
@@ -158,31 +158,31 @@
     </DOMTimeline>
   </timeline>
   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="liveDragging">
-      <Inspectable name="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="liveDragging" unlocalizedName="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="maximum">
-      <Inspectable name="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+      <Inspectable name="maximum" unlocalizedName="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
    </property>
    <property id="minimum">
-      <Inspectable name="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="minimum" unlocalizedName="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="snapInterval">
-      <Inspectable name="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="snapInterval" unlocalizedName="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="tickInterval">
-      <Inspectable name="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="tickInterval" unlocalizedName="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>

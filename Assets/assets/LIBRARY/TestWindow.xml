@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1550552332" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1593955195" lastUniqueIdentifier="7">
   <timeline>
     <DOMTimeline name="TestWindow" layerDepthEnabled="true">
       <layers>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 0|10000 0!10000 0|10000 6000!10000 6000|0 6000!0 6000|0 0"/>
+                    <Edge fillStyle1="1" edges="!0 0|14000 0!14000 0|14000 6000!14000 6000|0 6000!0 6000|0 0"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="_gfx/logo.png">
@@ -23,7 +23,7 @@
                 </DOMBitmapInstance>
                 <DOMDynamicText fontRenderingMode="device" width="196" height="86" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="277" ty="16.65"/>
+                    <Matrix tx="452" ty="16.65"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -42,19 +42,19 @@
                     <Point x="50.05" y="11"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -66,19 +66,19 @@
                     <Point x="50" y="11"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -90,25 +90,25 @@
                     <Point x="50" y="11"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="groupName">
-      <Inspectable name="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+      <Inspectable name="groupName" unlocalizedName="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -120,25 +120,25 @@
                     <Point x="50" y="11"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="groupName">
-      <Inspectable name="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+      <Inspectable name="groupName" unlocalizedName="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -150,31 +150,31 @@
                     <Point x="40" y="1.5"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="liveDragging">
-      <Inspectable name="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="liveDragging" unlocalizedName="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="maximum">
-      <Inspectable name="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+      <Inspectable name="maximum" unlocalizedName="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
    </property>
    <property id="minimum">
-      <Inspectable name="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="minimum" unlocalizedName="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="snapInterval">
-      <Inspectable name="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="snapInterval" unlocalizedName="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="tickInterval">
-      <Inspectable name="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="tickInterval" unlocalizedName="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -186,31 +186,31 @@
                     <Point x="40" y="1.5"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="liveDragging">
-      <Inspectable name="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="liveDragging" unlocalizedName="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="maximum">
-      <Inspectable name="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+      <Inspectable name="maximum" unlocalizedName="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
    </property>
    <property id="minimum">
-      <Inspectable name="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="minimum" unlocalizedName="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="snapInterval">
-      <Inspectable name="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="snapInterval" unlocalizedName="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="tickInterval">
-      <Inspectable name="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="tickInterval" unlocalizedName="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="value">
-      <Inspectable name="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -222,37 +222,37 @@
                     <Point x="50" y="22"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="condenseWhite">
-      <Inspectable name="condenseWhite" variable="condenseWhite" category="" verbose="0" defaultValue="false" type="Boolean"/>
+      <Inspectable name="condenseWhite" unlocalizedName="condenseWhite" variable="condenseWhite" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
    <property id="editable">
-      <Inspectable name="editable" variable="editable" category="" verbose="0" defaultValue="true" type="Boolean"/>
+      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="true" type="Boolean"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="horizontalScrollPolicy">
-      <Inspectable name="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
+      <Inspectable name="horizontalScrollPolicy" unlocalizedName="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
    </property>
    <property id="htmlText">
-      <Inspectable name="htmlText" variable="htmlText" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="htmlText" unlocalizedName="htmlText" variable="htmlText" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="maxChars">
-      <Inspectable name="maxChars" variable="maxChars" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="maxChars" unlocalizedName="maxChars" variable="maxChars" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="restrict">
-      <Inspectable name="restrict" variable="restrict" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="text">
-      <Inspectable name="text" variable="text" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="text" unlocalizedName="text" variable="text" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="verticalScrollPolicy">
-      <Inspectable name="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
+      <Inspectable name="verticalScrollPolicy" unlocalizedName="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="auto,on,off" type="List"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="wordWrap">
-      <Inspectable name="wordWrap" variable="wordWrap" category="" verbose="0" defaultValue="true" type="Boolean"/>
+      <Inspectable name="wordWrap" unlocalizedName="wordWrap" variable="wordWrap" category="" verbose="0" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
@@ -264,19 +264,88 @@
                     <Point x="75.05" y="2"/>
                   </transformationPoint>
                   <parametersAsXML><![CDATA[   <property id="direction">
-      <Inspectable name="direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="right,left" type="List"/>
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="right,left" type="List"/>
    </property>
    <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="mode">
-      <Inspectable name="mode" variable="mode" category="" verbose="0" defaultValue="event" enumeration="event,polled,manual" type="List"/>
+      <Inspectable name="mode" unlocalizedName="mode" variable="mode" category="" verbose="0" defaultValue="event" enumeration="event,polled,manual" type="List"/>
    </property>
    <property id="sourceName">
-      <Inspectable name="source" variable="sourceName" category="" verbose="0" defaultValue="" type="String"/>
+      <Inspectable name="source" unlocalizedName="source" variable="sourceName" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/ComboBox" name="comboList" selected="true" uniqueID="8">
+                  <matrix>
+                    <Matrix a="1.5" tx="499.95" ty="125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="dataProvider">
+      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="prompt">
+      <Inspectable name="prompt" unlocalizedName="prompt" variable="prompt" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="restrict">
+      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="1" defaultValue="" type="String"/>
+   </property>
+   <property id="rowCount">
+      <Inspectable name="rowCount" unlocalizedName="rowCount" variable="rowCount" category="" verbose="0" defaultValue="5" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/List" name="list" uniqueID="9">
+                  <matrix>
+                    <Matrix a="1.5" tx="499.8" ty="154.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.1" y="50"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="allowMultipleSelection">
+      <Inspectable name="allowMultipleSelection" unlocalizedName="allowMultipleSelection" variable="allowMultipleSelection" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="dataProvider">
+      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" unlocalizedName="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" unlocalizedName="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" unlocalizedName="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" unlocalizedName="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" unlocalizedName="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" unlocalizedName="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
