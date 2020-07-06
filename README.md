@@ -8,9 +8,11 @@ If you want to see it in action still just drop me a line.
 It uses default skinning from Adobe Animate CC and currently involves
 - XFL movie clip asset loading and creation
 - CheckBox
+- List
 - ProgressBar
 - RadioButton
 - ScrollBar
+- SelectabeList
 - Slider
 - TextArea
 - TextField
