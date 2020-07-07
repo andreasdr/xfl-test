@@ -45,6 +45,20 @@ class Main extends Sprite {
 		gui.getXFLList("list").dataProvider = listDataProvider;
 		gui.getXFLList("list").selectedIndex = 2;
 
+		var comboBoxDataProvider:DataProvider = new DataProvider();
+		comboBoxDataProvider.addItem({label: "Item 1"});
+		comboBoxDataProvider.addItem({label: "Item 2"});
+		comboBoxDataProvider.addItem({label: "Item 3"});
+		comboBoxDataProvider.addItem({label: "Item 4"});
+		comboBoxDataProvider.addItem({label: "Item 5"});
+		comboBoxDataProvider.addItem({label: "Item 6"});
+		comboBoxDataProvider.addItem({label: "Item 7"});
+		comboBoxDataProvider.addItem({label: "Item 8"});
+		comboBoxDataProvider.addItem({label: "Item 9"});
+		comboBoxDataProvider.addItem({label: "Item 10"});
+		gui.getXFLComboBox("comboBox").dataProvider = comboBoxDataProvider;
+		// gui.getXFLComboBox("comboBox").selectedIndex = 2;
+
 		openfl.Lib.current.stage.addEventListener(Event.RESIZE, stageResizeHandler);
 
 		gui.alpha = 0.0;

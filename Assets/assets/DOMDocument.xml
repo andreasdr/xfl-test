@@ -184,7 +184,7 @@
           <Include href="Component Assets/TextInputSkins/TextInput_disabledSkin.xml" itemID="44b148ab-000000ee" lastModified="1168290428"/>
           <Include href="Component Assets/TextInputSkins/TextInput_upSkin.xml" itemID="44b148bb-000000ef" lastModified="1168290434"/>
           <Include href="Component Assets/UIScrollBar.xml" itemID="44aaa686-00000064" lastModified="1358192122"/>
-          <Include href="TestWindow.xml" itemID="5c6b7d40-000016f1" lastModified="1593955195"/>
+          <Include href="TestWindow.xml" itemID="5c6b7d40-000016f1" lastModified="1594103178"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" layerDepthEnabled="true">

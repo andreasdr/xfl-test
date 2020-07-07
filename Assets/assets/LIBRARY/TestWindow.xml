@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1593955195" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1594103178" lastUniqueIdentifier="7">
   <timeline>
     <DOMTimeline name="TestWindow" layerDepthEnabled="true">
       <layers>
@@ -280,39 +280,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/ComboBox" name="comboList" selected="true" uniqueID="8">
-                  <matrix>
-                    <Matrix a="1.5" tx="499.95" ty="125"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="50" y="11"/>
-                  </transformationPoint>
-                  <parametersAsXML><![CDATA[   <property id="dataProvider">
-      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
-   </property>
-   <property id="editable">
-      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="enabled">
-      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="prompt">
-      <Inspectable name="prompt" unlocalizedName="prompt" variable="prompt" category="" verbose="0" defaultValue="" type="String"/>
-   </property>
-   <property id="restrict">
-      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="1" defaultValue="" type="String"/>
-   </property>
-   <property id="rowCount">
-      <Inspectable name="rowCount" unlocalizedName="rowCount" variable="rowCount" category="" verbose="0" defaultValue="5" type="Number"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                </DOMComponentInstance>
                 <DOMComponentInstance libraryItemName="Component Assets/List" name="list" uniqueID="9">
                   <matrix>
-                    <Matrix a="1.5" tx="499.8" ty="154.05"/>
+                    <Matrix a="1.5" tx="499.85" ty="125"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50.1" y="50"/>
@@ -343,6 +313,36 @@
    </property>
    <property id="verticalScrollPolicy">
       <Inspectable name="verticalScrollPolicy" unlocalizedName="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="Component Assets/ComboBox" name="comboBox" selected="true" uniqueID="8">
+                  <matrix>
+                    <Matrix a="1.5" tx="500" ty="250"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="dataProvider">
+      <Inspectable name="dataProvider" unlocalizedName="dataProvider" variable="dataProvider" category="" verbose="0" defaultValue="fl.data.DataProvider, fl.data.SimpleCollectionItem, item, 0, 0" type="Collection"/>
+   </property>
+   <property id="editable">
+      <Inspectable name="editable" unlocalizedName="editable" variable="editable" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="prompt">
+      <Inspectable name="prompt" unlocalizedName="prompt" variable="prompt" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="restrict">
+      <Inspectable name="restrict" unlocalizedName="restrict" variable="restrict" category="" verbose="1" defaultValue="" type="String"/>
+   </property>
+   <property id="rowCount">
+      <Inspectable name="rowCount" unlocalizedName="rowCount" variable="rowCount" category="" verbose="0" defaultValue="5" type="Number"/>
    </property>
    <property id="visible">
       <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
