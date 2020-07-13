@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/Shared/focusRectSkin" itemID="5f0bda53-00001c55" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="focusRectSkin" scaleGridLeft="4.9" scaleGridRight="76.95" scaleGridTop="4.95" scaleGridBottom="16.95" lastModified="1339665153">
+  <timeline>
+    <DOMTimeline name="focusRectSkin">
+      <layers>
+        <DOMLayer name="border" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,22 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/SliderSkins/SliderTrack_skin" itemID="5f0bda53-00001c4f" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="SliderTrack_skin" scaleGridLeft="8.25" scaleGridRight="144.75" scaleGridTop="3" scaleGridBottom="9.5" lastModified="1594612623">
+  <timeline>
+    <DOMTimeline name="SliderTrack_skin">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_audio_music_active_bar.png"/>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_audio_music_active_filler.png">
+                  <matrix>
+                    <Matrix tx="4" ty="3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

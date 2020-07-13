@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/Shared/arrowIcon" itemID="5f0bda53-00001c02" symbolType="graphic" lastModified="1331310881">
+  <timeline>
+    <DOMTimeline name="arrowIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="icon" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5A210D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#6699CC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!140 -5|0 -5!0 -5[-2.0546875 -4.984375 -3.5 -3.5!-3.5 -3.5[-4.984375 -2.0546875 -5 0!-5 0|-5 20!-5 20[-4.984375 #16.0D -3.5 23.5!-3.5 23.5[-2.0546875 #18.FB 0 25!0 25|15 25!15 25|15 40!15 40[#F.04 #2A.0D 16.5 43.5!16.5 43.5[#11.F2 #2C.FB
+ 20 45!20 45|35 45!35 45|35 60!35 60[#23.04 #3E.0D 36.5 63.5!36.5 63.5[#25.F2 #40.FB 40 65!40 65|55 65!55 65|55 80!55 80[#37.04 #52.0D 56.5 83.5!56.5 83.5[#39.F2 #54.FB 60 85!60 85|80 85!80 85[#52.0D #54.FB 83.5 83.5!83.5 83.5[#54.FB
+ #52.0D 85 80!85 80|85 65!85 65|100 65!100 65[#66.0D #40.FB 103.5 63.5!103.5 63.5[#68.FB #3E.0D 105 60!105 60|105 45!105 45|120 45!120 45[#7A.0D #2C.FB 123.5 43.5!123.5 43.5[#7C.FB #2A.0D 125 40!125 40|125 25!125 25|140 25!140 25[#8E.0D
+ #18.FB 143.5 23.5!143.5 23.5[#90.FB #16.0D 145 20!145 20|145 0!145 0[#90.FB -2.0546875 143.5 -3.5!143.5 -3.5[#8E.0D -4.984375 140 -5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!135 15|120 15!120 15[#75.F2 #F.04 116.5 16.5!116.5 16.5[#73.04 #11.F2 115 20!115 20|115 35!115 35|100 35!100 35[#61.F2 #23.04 96.5 36.5!96.5 36.5[#5F.04 #25.F2 95 40!95 40|95 55!95 55|80 55!80 55[#4D.F2 #37.04 76.5 56.5!76.5 56.5[#4B.04
+ #39.F2 75 60!75 60|75 75!75 75|65 75!65 75|65 60!65 60[#40.FB #39.F2 63.5 56.5!63.5 56.5[#3E.0D #37.04 60 55!60 55|45 55!45 55|45 40!45 40[#2C.FB #25.F2 43.5 36.5!43.5 36.5[#2A.0D #23.04 40 35!40 35|25 35!25 35|25 20!25 20[#18.FB #11.F2
+ 23.5 16.5!23.5 16.5[#16.0D #F.04 20 15!20 15|5 15!5 15|5 5!5 5|135 5!135 5|135 15"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

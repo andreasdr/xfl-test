@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/SliderSkins/SliderTrack_disabledSkin" itemID="5f0bda53-00001c50" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="SliderTrack_disabledSkin" scaleGridLeft="7" scaleGridRight="144.75" scaleGridTop="4.5" scaleGridBottom="8.75" lastModified="1594612626">
+  <timeline>
+    <DOMTimeline name="SliderTrack_disabledSkin">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_audio_music_disabled_bar.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

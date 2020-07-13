@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/CellRendererSkins/CellRenderer_overSkin" itemID="5f0bda53-00001c0c" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="CellRenderer_overSkin" scaleGridLeft="1" scaleGridRight="151" scaleGridTop="-1" scaleGridBottom="24" lastModified="1594612691">
+  <timeline>
+    <DOMTimeline name="CellRenderer_overSkin">
+      <layers>
+        <DOMLayer name="default" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/ui/list_over.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

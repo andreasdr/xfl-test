@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/CheckBoxSkins/CheckBox_overIcon" itemID="5f0bda53-00001c14" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="CheckBox_overIcon" linkageClassName="CheckBox_overIcon" lastModified="1594612700">
+  <timeline>
+    <DOMTimeline name="CheckBox_overIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="highlight" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/pf_pirate_pact_select_messages_mouseover.png">
+                  <matrix>
+                    <Matrix tx="-14" ty="-14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

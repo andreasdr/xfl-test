@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/SliderSkins/SliderThumb_downSkin" itemID="4e4e377a-00000c7d" linkageExportForAS="true" linkageClassName="SliderThumb_downSkin" lastModified="1594612624">
+  <timeline>
+    <DOMTimeline name="SliderThumb_downSkin" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/options/pf_options_audio_music_click_slider.png">
+                  <matrix>
+                    <Matrix tx="-9" ty="-15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

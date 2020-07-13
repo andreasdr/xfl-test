@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/CheckBoxSkins/CheckBox_disabledIcon" itemID="5f0bda53-00001c16" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="CheckBox_disabledIcon" linkageClassName="CheckBox_disabledIcon" lastModified="1594612694">
+  <timeline>
+    <DOMTimeline name="CheckBox_disabledIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="highlight" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/pf_pirate_pact_select_messages_disabled.png">
+                  <matrix>
+                    <Matrix tx="-14" ty="-14"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

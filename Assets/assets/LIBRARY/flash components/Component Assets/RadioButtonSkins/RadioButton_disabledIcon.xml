@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/RadioButtonSkins/RadioButton_disabledIcon" itemID="5f0bda53-00001c44" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="RadioButton_disabledIcon" linkageClassName="RadioButton_disabledIcon" lastModified="1594612636">
+  <timeline>
+    <DOMTimeline name="RadioButton_disabledIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="highlight" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_graphics_disabled_circle.png">
+                  <matrix>
+                    <Matrix tx="-16" ty="-16"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

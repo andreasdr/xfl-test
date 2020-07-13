@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ListSkins/List_skin" itemID="5f0bda53-00001c26" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="List_skin" sourceFlashFilepath="../../../pirate_fantasy_assets/assets/assets_pf_windows/assets_pf_windows.xfl" sourceLibraryItemHRef="flash components/Component Assets/ListSkins/List_skin" sourceLastModified="1594347870" scaleGridLeft="5.9" scaleGridRight="266.3" scaleGridTop="5.7" scaleGridBottom="186.45" lastModified="1594612688" lastUniqueIdentifier="6" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="List_skin">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/ui/list_background.png">
+                  <matrix>
+                    <Matrix a="279.99983215332" d="200.00048828125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

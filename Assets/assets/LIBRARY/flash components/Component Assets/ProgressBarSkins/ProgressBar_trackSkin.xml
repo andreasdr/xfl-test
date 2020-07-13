@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ProgressBarSkins/ProgressBar_trackSkin" itemID="5f0bda53-00001c3e" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ProgressBar_trackSkin" scaleGridLeft="8.5" scaleGridRight="143.75" scaleGridTop="3" scaleGridBottom="9" lastModified="1594612622">
+  <timeline>
+    <DOMTimeline name="ProgressBar_trackSkin">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_audio_music_active_bar.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

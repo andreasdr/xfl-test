@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ProgressBarSkins/ProgressBar_indeterminateSkin" itemID="5f0bda53-00001c40" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ProgressBar_indeterminateSkin" lastModified="1568422374">
+  <timeline>
+    <DOMTimeline name="ProgressBar_indeterminateSkin" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="skin" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

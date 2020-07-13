@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ScrollBarSkins/ScrollArrowUp_upSkin" itemID="5f0bda53-00001c60" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="ScrollArrowUp_upSkin" linkageClassName="ScrollArrowUp_upSkin" lastModified="1594612672" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ScrollArrowUp_upSkin" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="icon" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/scrollbar/sb_up_idle.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

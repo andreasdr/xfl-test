@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ScrollBarSkins/ScrollThumb_downSkin" itemID="5f0bda53-00001c5c" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ScrollThumb_downSkin" scaleGridLeft="1.5" scaleGridRight="6.5" scaleGridTop="5" scaleGridBottom="30.75" lastModified="1594612668" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ScrollThumb_downSkin">
+      <layers>
+        <DOMLayer name="skin" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/scrollbar/sb_tumb_click.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

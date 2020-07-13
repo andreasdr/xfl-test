@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ProgressBarSkins/ProgressBar_barSkin" itemID="5f0bda53-00001c3f" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ProgressBar_barSkin" scaleGridLeft="3.65" scaleGridRight="140.7" scaleGridTop="1.75" scaleGridBottom="5.15" lastModified="1594612623">
+  <timeline>
+    <DOMTimeline name="ProgressBar_barSkin">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_audio_music_active_filler.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

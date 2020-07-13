@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ScrollBarSkins/ScrollThumb_overSkin" itemID="5f0bda53-00001c5e" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="ScrollThumb_overSkin" linkageClassName="ScrollThumb_overSkin" scaleGridLeft="2" scaleGridRight="6.5" scaleGridTop="5" scaleGridBottom="29.5" lastModified="1594612669">
+  <timeline>
+    <DOMTimeline name="ScrollThumb_overSkin">
+      <layers>
+        <DOMLayer name="skin" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/scrollbar/sb_tumb_mouseover.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

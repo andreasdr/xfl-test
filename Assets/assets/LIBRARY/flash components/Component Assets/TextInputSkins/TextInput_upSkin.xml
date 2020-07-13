@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/TextInputSkins/TextInput_upSkin" itemID="5f0bda53-00001c23" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="TextInput_upSkin" scaleGridLeft="2.25" scaleGridRight="150.05" scaleGridTop="1.45" scaleGridBottom="20.05" lastModified="1594348079">
+  <timeline>
+    <DOMTimeline name="TextInput_upSkin">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

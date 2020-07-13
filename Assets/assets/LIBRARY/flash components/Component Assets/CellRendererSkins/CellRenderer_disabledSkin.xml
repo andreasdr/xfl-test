@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/CellRendererSkins/CellRenderer_disabledSkin" itemID="5f0bda53-00001c0a" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="CellRenderer_disabledSkin" scaleGridLeft="1" scaleGridRight="150.95" scaleGridTop="1" scaleGridBottom="21" lastModified="1594612689">
+  <timeline>
+    <DOMTimeline name="CellRenderer_disabledSkin">
+      <layers>
+        <DOMLayer name="default" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/list_disabled.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

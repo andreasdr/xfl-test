@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/RadioButtonSkins/RadioButton_selectedOverIcon" itemID="5f0bda53-00001c46" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="RadioButton_selectedOverIcon" lastModified="1594612645" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="RadioButton_selectedOverIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="icon" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_graphics_highlight_circle.png">
+                  <matrix>
+                    <Matrix tx="-16" ty="-16"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/options/pf_options_graphics_quality_skull_mouseover.png">
+                  <matrix>
+                    <Matrix tx="-16" ty="-16"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

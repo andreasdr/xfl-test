@@ -1,0 +1,22 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ComboBoxSkins/ComboBox_overSkin" itemID="5f0bda53-00001c20" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ComboBox_overSkin" scaleGridLeft="5" scaleGridRight="125" scaleGridTop="13.25" scaleGridBottom="17.6" lastModified="1594612691" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ComboBox_overSkin">
+      <layers>
+        <DOMLayer name="default" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/list_over.png"/>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/combolist_arrow.png">
+                  <matrix>
+                    <Matrix tx="135" ty="5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

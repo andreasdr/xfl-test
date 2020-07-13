@@ -1,0 +1,22 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ComboBoxSkins/ComboBox_disabledSkin" itemID="5f0bda53-00001c1f" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ComboBox_disabledSkin" scaleGridLeft="4" scaleGridRight="125" scaleGridTop="13.7" scaleGridBottom="18.05" lastModified="1594612689" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ComboBox_disabledSkin">
+      <layers>
+        <DOMLayer name="default" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_gfx/ui/list_disabled.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="_gfx/ui/combolist_arrow.png">
+                  <matrix>
+                    <Matrix tx="135" ty="5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

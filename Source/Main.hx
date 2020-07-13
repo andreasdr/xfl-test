@@ -6,9 +6,17 @@ import openfl.display.Shape;
 import openfl.display.Sprite;
 import openfl.display.XFLMovieClip;
 import openfl.display.XFLTween;
+import openfl.text.TextField;
+import openfl.text.TextFormat;
 import xfl.XFLAssets;
 
 class Main extends Sprite {
+	private function adjustDefaultTextFormat(textFormat:TextFormat):TextFormat {
+		var textFormat:TextFormat = textFormat.clone();
+		textFormat.color = 0xffffff;
+		return textFormat;
+	}
+
 	public function new() {
 		super();
 
@@ -19,17 +27,27 @@ class Main extends Sprite {
 		var gui:XFLMovieClip = XFLAssets.getInstance().getXFLMovieClipAsset("TestWindow");
 		addChild(gui);
 
-		gui.getXFLCheckBox("checkBox1").label = "Checked!";
+		gui.getXFLCheckBox("checkBox1").textField.defaultTextFormat = adjustDefaultTextFormat(gui.getXFLCheckBox("checkBox1").textField.defaultTextFormat);
+		gui.getXFLCheckBox("checkBox1").label = "Checkbox 1";
 		gui.getXFLCheckBox("checkBox1").selected = true;
+		gui.getXFLCheckBox("checkBox2").textField.defaultTextFormat = adjustDefaultTextFormat(gui.getXFLCheckBox("checkBox1").textField.defaultTextFormat);
+		gui.getXFLCheckBox("checkBox2").label = "Checkbox 2";
 
+		gui.getXFLRadioButton("radioButton1")
+			.textField.defaultTextFormat = adjustDefaultTextFormat(gui.getXFLRadioButton("radioButton1").textField.defaultTextFormat);
 		gui.getXFLRadioButton("radioButton1").groupName = "radioButtonGroup1";
+		gui.getXFLRadioButton("radioButton1").label = "RadioBtn 1";
+		gui.getXFLRadioButton("radioButton2")
+			.textField.defaultTextFormat = adjustDefaultTextFormat(gui.getXFLRadioButton("radioButton2").textField.defaultTextFormat);
 		gui.getXFLRadioButton("radioButton2").groupName = "radioButtonGroup1";
+		gui.getXFLRadioButton("radioButton2").label = "RadioBtn 2";
 
 		gui.getXFLProgressBar("progressBar").minimum = 0.0;
 		gui.getXFLProgressBar("progressBar").maximum = 100.0;
 		gui.getXFLProgressBar("progressBar").value = 50.0;
 
 		gui.getXFLTextArea("textArea").text = "Hi, this is a text area, type something to see the scoll bar involved.";
+		gui.getXFLTextArea("textArea").textField.defaultTextFormat = adjustDefaultTextFormat(gui.getXFLTextArea("textArea").textField.defaultTextFormat);
 
 		var listDataProvider:DataProvider = new DataProvider();
 		listDataProvider.addItem({label: "Item 1"});
@@ -57,7 +75,6 @@ class Main extends Sprite {
 		comboBoxDataProvider.addItem({label: "Item 9"});
 		comboBoxDataProvider.addItem({label: "Item 10"});
 		gui.getXFLComboBox("comboBox").dataProvider = comboBoxDataProvider;
-		// gui.getXFLComboBox("comboBox").selectedIndex = 2;
 
 		openfl.Lib.current.stage.addEventListener(Event.RESIZE, stageResizeHandler);
 

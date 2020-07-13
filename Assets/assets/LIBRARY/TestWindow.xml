@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1594103178" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TestWindow" itemID="5c6b7d40-000016f1" linkageExportForAS="true" linkageClassName="TestWindow" lastModified="1594614215" lastUniqueIdentifier="17">
   <timeline>
     <DOMTimeline name="TestWindow" layerDepthEnabled="true">
       <layers>
@@ -6,37 +6,28 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape>
-                  <fills>
-                    <FillStyle index="1">
-                      <SolidColor color="#FFFFFF"/>
-                    </FillStyle>
-                  </fills>
-                  <edges>
-                    <Edge fillStyle1="1" edges="!0 0|14000 0!14000 0|14000 6000!14000 6000|0 6000!0 6000|0 0"/>
-                  </edges>
-                </DOMShape>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_options_background.png"/>
                 <DOMBitmapInstance libraryItemName="_gfx/logo.png">
                   <matrix>
-                    <Matrix tx="25" ty="25"/>
+                    <Matrix tx="74" ty="170"/>
                   </matrix>
                 </DOMBitmapInstance>
-                <DOMDynamicText fontRenderingMode="device" width="196" height="86" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="randomText" fontRenderingMode="device" width="196" height="86" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="452" ty="16.65"/>
+                    <Matrix tx="528" ty="161.35"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Hi, this is a XFL test for your pleasure</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="27.05" size="24" bitmapSize="480" face="_sans"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26.85" size="24" bitmapSize="480" face="ArialMT" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMComponentInstance libraryItemName="Component Assets/CheckBox" name="checkBox1" uniqueID="1">
+                <DOMComponentInstance libraryItemName="flash components/CheckBox" name="checkBox1" uniqueID="8">
                   <matrix>
-                    <Matrix a="0.75" tx="50" ty="125"/>
+                    <Matrix a="0.75" tx="98" ty="269.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50.05" y="11"/>
@@ -58,9 +49,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/CheckBox" name="checkBox2" uniqueID="2">
+                <DOMComponentInstance libraryItemName="flash components/CheckBox" name="checkBox2" uniqueID="9">
                   <matrix>
-                    <Matrix a="0.75" tx="50.05" ty="150"/>
+                    <Matrix a="0.75" tx="98.05" ty="294.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50" y="11"/>
@@ -82,39 +73,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/RadioButton" name="radioButton1" uniqueID="3">
+                <DOMComponentInstance libraryItemName="flash components/RadioButton" name="radioButton1" uniqueID="10">
                   <matrix>
-                    <Matrix a="0.75" tx="140" ty="125"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="50" y="11"/>
-                  </transformationPoint>
-                  <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="groupName">
-      <Inspectable name="groupName" unlocalizedName="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="value">
-      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/RadioButton" name="radioButton2" uniqueID="5">
-                  <matrix>
-                    <Matrix a="0.75" tx="140" ty="150"/>
+                    <Matrix a="0.75" tx="188" ty="269.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50" y="11"/>
@@ -142,9 +103,39 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/Slider" name="slider1" uniqueID="4">
+                <DOMComponentInstance libraryItemName="flash components/RadioButton" name="radioButton2" uniqueID="11">
                   <matrix>
-                    <Matrix tx="250" ty="145"/>
+                    <Matrix a="0.75" tx="188" ty="294.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="groupName">
+      <Inspectable name="groupName" unlocalizedName="groupName" variable="groupName" category="" verbose="0" defaultValue="RadioButtonGroup" type="String"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="Label" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+                <DOMComponentInstance libraryItemName="flash components/Slider" name="slider1" uniqueID="12">
+                  <matrix>
+                    <Matrix tx="298" ty="289.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="40" y="1.5"/>
@@ -178,9 +169,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/Slider" name="slider2" uniqueID="6">
+                <DOMComponentInstance libraryItemName="flash components/Slider" name="slider2" uniqueID="13">
                   <matrix>
-                    <Matrix tx="350" ty="145"/>
+                    <Matrix tx="398" ty="289.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="40" y="1.5"/>
@@ -214,9 +205,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/TextArea" name="textArea" uniqueID="7">
+                <DOMComponentInstance libraryItemName="flash components/TextArea" name="textArea" uniqueID="14">
                   <matrix>
-                    <Matrix a="4" d="1.36363220214844" tx="50" ty="194.05"/>
+                    <Matrix a="4" d="1.36363220214844" tx="98" ty="338.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50" y="22"/>
@@ -256,9 +247,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/ProgressBar" name="progressBar" uniqueID="8">
+                <DOMComponentInstance libraryItemName="flash components/ProgressBar" name="progressBar" uniqueID="15">
                   <matrix>
-                    <Matrix a="1.33331298828125" tx="149.95" ty="275"/>
+                    <Matrix a="1.33331298828125" tx="197.95" ty="419.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="75.05" y="2"/>
@@ -280,9 +271,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/List" name="list" uniqueID="9">
+                <DOMComponentInstance libraryItemName="flash components/List" name="list" uniqueID="16">
                   <matrix>
-                    <Matrix a="1.5" tx="499.85" ty="125"/>
+                    <Matrix a="1.5" tx="547.85" ty="269.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50.1" y="50"/>
@@ -319,9 +310,9 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
-                <DOMComponentInstance libraryItemName="Component Assets/ComboBox" name="comboBox" selected="true" uniqueID="8">
+                <DOMComponentInstance libraryItemName="flash components/ComboBox" name="comboBox" uniqueID="17">
                   <matrix>
-                    <Matrix a="1.5" tx="500" ty="250"/>
+                    <Matrix a="1.5" tx="548" ty="394.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="50" y="11"/>
@@ -349,6 +340,24 @@
    </property>
 ]]></parametersAsXML>
                 </DOMComponentInstance>
+                <DOMDynamicText name="headline" fontRenderingMode="device" width="296" height="26.85" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="250" ty="52.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>XFL Test</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26.85" size="24" bitmapSize="480" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_gfx/options/pf_window_close_button_idle.png">
+                  <matrix>
+                    <Matrix tx="749" ty="79"/>
+                  </matrix>
+                </DOMBitmapInstance>
               </elements>
             </DOMFrame>
           </frames>

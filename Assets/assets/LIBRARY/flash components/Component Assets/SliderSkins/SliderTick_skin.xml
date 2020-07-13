@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/SliderSkins/SliderTick_skin" itemID="5f0bda53-00001c4d" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="SliderTick_skin" lastModified="1557680216">
+  <timeline>
+    <DOMTimeline name="SliderTick_skin" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="skin" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

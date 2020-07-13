@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash components/Component Assets/ScrollBarSkins/ScrollBar_thumbIcon" itemID="5f0bda53-00001c67" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="ScrollBar_thumbIcon" lastModified="1558628224">
+  <timeline>
+    <DOMTimeline name="ScrollBar_thumbIcon" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#4FFF4F" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5A6165" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!100 20|0 20!0 20|0 0!0 0|100 0!100 0|100 20!100 60|0 60!0 60|0 40!0 40|100 40!100 40|100 60!0 80|100 80!100 80|100 100!100 100|0 100!0 100|0 80!100 120|100 140!100 140|0 140!0 140|0 120!0 120|100 120"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
